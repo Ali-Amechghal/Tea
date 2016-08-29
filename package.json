@@ -1,0 +1,30 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "nodejs library to add colors to console output text",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Amechghal/Tea.git"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "nodejs",
+    "console",
+    "log"
+  ],
+  "author": "Ali Amechghal <ali.amechghal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ali-Amechghal/Tea/issues"
+  },
+  "homepage": "https://github.com/Ali-Amechghal/Tea#readme"
+}
