@@ -4,7 +4,8 @@
   "description": "nodejs library to add colors to console output text",
   "main": "index.js",
   "dependencies": {
-    "ansi-styles": "^2.2.1"
+    "ansi-styles": "^2.2.1",
+    "chai": "^3.5.0"
   },
   "devDependencies": {},
   "scripts": {
